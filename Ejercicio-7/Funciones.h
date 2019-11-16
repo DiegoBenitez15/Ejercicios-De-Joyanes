@@ -5,7 +5,11 @@
 #ifndef PORTAFOLIO_2_FUNCIONES_H
 #define PORTAFOLIO_2_FUNCIONES_H
 
-float parteentera(char *p);
-float partedecimal(char *p,int tamano);
+#define X 5
+#define Y 4
+
+int separar(int *p[]);
+int sumar(int *p,int *p2);
+int multiplicar(const int *p, const int *p2);
 
 #endif //PORTAFOLIO_2_FUNCIONES_H
