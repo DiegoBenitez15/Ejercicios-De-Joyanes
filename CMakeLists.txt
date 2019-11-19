@@ -16,3 +16,8 @@ add_executable(Ejercicios-10 Ejercicios-10/main.c Ejercicios-10/Funciones.c Ejer
 
 add_executable(Ejercicios-11 Ejercicio-11/main.c Ejercicio-11/Funciones.c Ejercicio-11/Funciones.h)
 add_executable(Ejercicio-12 Ejercicio-12/main.c Ejercicio-12/Funciones.c Ejercicio-12/Funciones.h)
+add_executable(Ejercicio-13 Ejercicio-13/main.c Ejercicio-13/Funciones.c Ejercicio-13/Funciones.h)
+add_executable(Ejercicio-15 Ejercicio-15/main.c Ejercicio-15/Funciones.c Ejercicio-15/Funciones.h)
+
+add_executable(Ejercicio-16 Ejercicio-16/main.c Ejercicio-16/Funciones.c Ejercicio-16/Funciones.h)
+add_executable(Ejercicio-17 Ejercicio-17/main.c Ejercicio-17/Funciones.c Ejercicio-17/Funciones.h)
